@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=NLP2SQL&fontSize=80&animation=fadeIn&fontAlignY=35)
 
@@ -205,3 +205,4 @@ License © [Lohit Kolluri](LICENSE)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 </div>
+](https://github.com/gitPushMafia/QueryLens)
