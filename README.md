@@ -89,7 +89,7 @@ graph LR
 1️⃣ **Clone the Repository**
 
 ```bash
-git clone https://github.com/RaoVrn/QueryLens
+git clone https://github.com/gitPushMafia/QueryLens
 cd QueryLens
 ```
 
